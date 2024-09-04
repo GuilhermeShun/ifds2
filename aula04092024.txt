@@ -1,0 +1,2 @@
+arquivo teste aula 04092024
+usando o git clone
