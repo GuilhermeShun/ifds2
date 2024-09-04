@@ -10,3 +10,8 @@ Criação da branch nova
 5. Acessar a branch nova com o comando "git checkout [nome da branch nova]"
 6. Trabalhar na branch nova, criando arquivos, etc
 
+Envio para repositório remoto 
+1. Realizar os procedimentos padrão de laboratório (git config --global user.name [nome], etc)
+2. Definir o repositório remoto com "git remote add origin 'https://github.com/NomeDeUsuario/RepositorioRemoto.git'"
+3. Obter o token no GitHub em https://github.com/settings/tokens/new, habilitando a opção "repo". 
+4. Fazer o push do repositório local via terminal com o "git push -u origin [branch nova]", inserindo nome de usuário e token de verificação
