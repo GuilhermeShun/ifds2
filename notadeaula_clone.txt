@@ -1,0 +1,9 @@
+Pré-requisito:
+- Ter um repositório no GitHub para ser clonado
+
+Instruções
+1. Abrir o terminal
+2. Acessar o diretório local em que se deseja copiar o repositório remoto, usando o comando "cd" 
+3. Inserir o comando "git clone 'https://github.com/NomeDeUsuario/MeuRepositorio.git'"
+4. Acessar o repositório clonado com o comando "cd"
+5. Verificar com o comando "dir" se o conteúdo do repositório remoto foi corretamente copiado
