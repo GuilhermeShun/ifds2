@@ -1,0 +1,12 @@
+Pré-requisito:
+- Ter um repositório git local
+
+Instruções
+Criação da branch nova
+1. Abrir o terminal
+2. Acessar o repositório local de interesse com o comando "cd"
+3. Verificar a branch atual com o comando "git branch" 
+4. Criar uma branch nova com o comando "git branch [nome da branch nova]"
+5. Acessar a branch nova com o comando "git checkout [nome da branch nova]"
+6. Trabalhar na branch nova, criando arquivos, etc
+
